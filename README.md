@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>
-    Hey, I'm a
+    Hey, I'm simply a
   </h1>
   <h4>
     Currently I'm just here to learn full stack. 
