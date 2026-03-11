@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>
-    Hey, I'm Entropy A
+    Hey, I'm a
   </h1>
   <h4>
     Currently I'm just here to learn full stack. 
