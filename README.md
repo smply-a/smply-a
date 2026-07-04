@@ -16,10 +16,10 @@
 </div>
 
 <!-- Projects -->
-<div align="center" style="margin-top: 100px;">
+<div align="center" style="margin-top: 10rem;">
   <h1>🛠️ Projects:</h1>
-  <ul style="text-align: center; list-style-position: inside;">
-    <li>Online chess platform</li>
-    <li>My own chess engine</li>
-  </ul>
+  <div style="text-align: center; list-style-position: inside;">
+    * Online chess platform
+    * My own chess engine
+  </div>
 </div>
