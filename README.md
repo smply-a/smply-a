@@ -19,7 +19,7 @@
 <div align="center" style="margin-top: 10rem;">
   <h1>🛠️ Projects:</h1>
   <div style="text-align: center; list-style-position: inside;">
-    <p>- Online chess platform</p>
-    <p>- My own chess engine</p>
+    <p>Online chess platform</p>
+    <p>My own chess engine</p>
   </div>
 </div>
