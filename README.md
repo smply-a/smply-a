@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>
-    Hey, I'm simply a
+    Hey, I'm smply a
   </h1>
   <h4>
     Currently I'm just here to learn full stack. 
@@ -19,7 +19,7 @@
 <div align="center" style="margin-top: 100px;">
   <h1>🛠️ Projects:</h1>
   <ul style="text-align: center; list-style-position: inside;">
-    <li>Kaia Discord Bot</li>
-    <li>Kaia API</li>
+    <li>Online chess platform</li>
+    <li>My own chess engine</li>
   </ul>
 </div>
