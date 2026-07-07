@@ -16,6 +16,5 @@ I would appreciate if you help me out with optimizing my code or criticizing my 
 
 <!-- Projects -->
 ## 🛠️ Projects:
-
 * Online chess platform
 * My own chess engine
