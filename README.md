@@ -11,8 +11,9 @@
   <br>
 </div>
 
-Currently I'm just here to learn full stack. 
-I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
+<div align="center">
+  Currently I'm just here to learn full stack. I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
+</div>
 
 <!-- Projects -->
 ## 🛠️ Projects:
