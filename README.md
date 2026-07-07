@@ -8,18 +8,14 @@
   <h1>
     Hey, I'm smply a
   </h1>
-  <h4>
-    Currently I'm just here to learn full stack. 
-    <br> 
-    I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
-  </h4>
+  <br>
 </div>
 
+# Currently I'm just here to learn full stack. 
+I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
+
 <!-- Projects -->
-<div align="center" style="margin-top: 10rem;">
-  <h1>🛠️ Projects:</h1>
-  <div style="text-align: center; list-style-position: inside;">
-    <p>Online chess platform</p>
-    <p>My own chess engine</p>
-  </div>
-</div>
+#🛠️ Projects:
+
+* Online chess platform
+* My own chess engine
