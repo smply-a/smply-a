@@ -17,5 +17,6 @@
 
 <!-- Projects -->
 ## 🛠️ Projects:
-* Online chess platform
-* My own chess engine
+* Chess web platform
+* Chess engine in rust
+* Discord music bot
