@@ -12,11 +12,5 @@
 </div>
 
 <div align="center">
-  Currently I'm just here to learn full stack. I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
+  I'm here to learn coding and have a nice time. I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
 </div>
-
-<!-- Projects -->
-## 🛠️ Projects:
-* Chess web platform
-* Chess engine in rust
-* Discord music bot
