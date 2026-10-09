@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-  I'm here to learn coding and have a nice time. I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
+  I'm here to learn coding I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
 </div>
