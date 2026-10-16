@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img alt="GIF Banner" src="https://media1.tenor.com/m/v-d5E2Xnv_sAAAAd/lain-serial-experiments-lain.gif" width="100%" height="100%"/>
+  <div class="tenor-gif-embed" data-postid="26108112" data-share-method="host" data-aspect-ratio="1.41593" data-width="100%"><a href="https://tenor.com/view/lain-serial-experiments-lain-gif-26108112">Lain Serial Experiments Lain GIF</a>from <a href="https://tenor.com/search/lain-gifs">Lain GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <!-- Introduction -->
