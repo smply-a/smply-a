@@ -1,5 +1,5 @@
 <!-- Banner -->
-
+<div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 24px;">
     <img
       src="https://i.pinimg.com/originals/ca/b2/46/cab2463eccff08174ce7fe410b71da26.gif"
@@ -15,3 +15,4 @@
       </p>
     </div>
   </div>
+</div>
