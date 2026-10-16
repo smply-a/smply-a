@@ -6,7 +6,6 @@
       width="220"
       alt="GIF"
     />
-
     <div>
       <h1>Hey, I'm smply a</h1>
       <p>
