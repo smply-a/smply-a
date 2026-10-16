@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img alt="GIF Banner" src="https://i.pinimg.com/originals/1c/a0/7b/1ca07b08cdc39d3cd272b77c2fa8999a.gif" width="100%" height="100%"/>
+  <img alt="GIF Banner" src="https://media1.tenor.com/m/v-d5E2Xnv_sAAAAd/lain-serial-experiments-lain.gif" width="100%" height="100%"/>
 </div>
 
 <!-- Introduction -->
